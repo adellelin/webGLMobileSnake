@@ -1,3 +1,15 @@
+/*
+  adellelin
+
+ intent : re-appropriation of processing sketch by mpinner to p5 for web and mobile access
+  
+ inspiration:
+ - Arc Length parametrization of curves by Jakub Valtar
+ - From Nebula from CoffeeBreakStudios.com (CBS)
+ - From Follow 3 from Keith Peters. 
+ 
+ */
+
 var x = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10];
 var y = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10];
 var segLength = 25;
